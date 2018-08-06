@@ -33,9 +33,10 @@ $ git checkout vaibhav_branch
 to checkout master:
 $ git checkout master
 
-To merge branche:
+To merge branch:
+To merge branch:
 $ git merge Vaibhav_branch
-
 
 To delete Branch:
 $ git branch -d hotfix
+
