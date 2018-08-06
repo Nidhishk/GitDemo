@@ -1,1 +1,42 @@
-git init
+Check if your Email and username is configured right: 
+	$ git config –list
+
+For help: 
+	$ git help config
+	Or 	$ git config --help
+
+	
+Initialize Git in a directory and import your project to git:
+	$ git init
+
+Clone Previously existing Remote Repository:
+	$ git clone <url> <Directory name(optional)>
+
+Checking the Status of Your Files:
+	$ git status
+
+to add file to staging area:
+$ git add <file name/s>
+
+To commit file to local repository:
+$ git commit -m “<commit message>”
+
+To push changes to master:
+$ git push orgin master
+
+To create branch:
+$ git branch vaibhav_branch
+
+To checkout master to your Branch:
+$ git checkout vaibhav_branch
+
+to checkout master:
+$ git checkout master
+
+To merge branch:
+To merge branch:
+$ git merge Vaibhav_branch
+
+To delete Branch:
+$ git branch -d hotfix
+
