@@ -1,0 +1,1 @@
+This is from Git, Gerrit, Gradle demo session-1.
